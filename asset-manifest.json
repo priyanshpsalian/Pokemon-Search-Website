@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pokemon-Search-Website/static/css/main.ca4ab487.chunk.css",
+    "main.js": "/Pokemon-Search-Website/static/js/main.8cd9536a.chunk.js",
+    "main.js.map": "/Pokemon-Search-Website/static/js/main.8cd9536a.chunk.js.map",
+    "runtime-main.js": "/Pokemon-Search-Website/static/js/runtime-main.e01c3021.js",
+    "runtime-main.js.map": "/Pokemon-Search-Website/static/js/runtime-main.e01c3021.js.map",
+    "static/js/2.18a0789f.chunk.js": "/Pokemon-Search-Website/static/js/2.18a0789f.chunk.js",
+    "static/js/2.18a0789f.chunk.js.map": "/Pokemon-Search-Website/static/js/2.18a0789f.chunk.js.map",
+    "index.html": "/Pokemon-Search-Website/index.html",
+    "static/css/main.ca4ab487.chunk.css.map": "/Pokemon-Search-Website/static/css/main.ca4ab487.chunk.css.map",
+    "static/js/2.18a0789f.chunk.js.LICENSE.txt": "/Pokemon-Search-Website/static/js/2.18a0789f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e01c3021.js",
+    "static/js/2.18a0789f.chunk.js",
+    "static/css/main.ca4ab487.chunk.css",
+    "static/js/main.8cd9536a.chunk.js"
+  ]
+}
